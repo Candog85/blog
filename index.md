@@ -5,10 +5,11 @@ This will be my devlog in which I'll be going over changes made to my projects a
 <br>
 
 # Recent Posts
+
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
