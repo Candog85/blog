@@ -26,7 +26,7 @@ Not having to physically commute to school gave me a lot more free time. Mostly 
 
 <br>
 
-<img src="/blog/images/lightbot.png">
+<img src="/blog/images/codecademy.png">
 
 <br>
 
@@ -38,6 +38,31 @@ Unfortunately, the website was lost after changing computers, as I never backed 
 
 Once again, as High-school approached, I had lost interest in coding as a hobby in favor of my academics again. But then entering high school I began to consider programming not as a hobby, but as a career. And when I got accepted into a computer science college course through the CollegeNow program, it was an exciting prospect.
 
-(image)
+<br>
 
-We learned the concept of pseudocode, the idea that code could be planned out in a universal and simplified way. It changed the way I would go about
+<img src="/blog/images/psuedocode.png">
+
+<br>
+
+We learned the concept of pseudocode, the idea that code could be planned out in a universal and simplified way. Our class in particular used physical flowcharts to represent our code. It changed the way I approached code, teaching me to plan methodically instead of working on the fly towards a vague goal.
+
+It was also my introduction to Python, which quickly became my favorite language. It was very logic heavy, with an emphasis on math and calculations. For my final project I created one big “Airport Calculator” script that calculated the profits and airport made from a ton of factors. 
+
+<br>
+
+<img src="/blog/images/python.png">
+
+<br>
+
+The script took me a week to make, culminating in a 4 hour session of tweaking and debugging the night before it was due. Despite the amount of work I had to do in that class, I still enjoyed it. It certainly wasn't easy work, but it's work that intrigued me, that held my attention in a way that most other kinds of work couldn't do.
+
+Since Junior year, I've been learning Full-Stack Development from Mr. Forlenza through my time at the Brooklyn STEAM Center. Learning HTML and CSS last year forced me to pay more attention to the aesthetics of what I develop. Instead of solving logical issues, I had to create projects that also focused on user fidelity and ease of use. And adding JavaScript on top of that, I was finally creating projects that looked good (to me at least) and could finally have a visual medium to express my development skills.
+
+<br>
+
+<img src="/blog/images/website.png">
+
+<br>
+
+With the help of my teachers and peers, last year I was able to earn my IT Specialist: HTML and CSS IT certification. And this year, I hope to earn My IT Specialist: Python certification this year as well. It's been a long journey of coding, but it's nowhere near done just yet. I still have to hone my skills on what I know, and there's a lot more I want to explore in this field. But that will come, all in due time.
+
