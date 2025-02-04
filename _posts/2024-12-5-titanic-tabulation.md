@@ -6,7 +6,7 @@ The RMS Titanic was a British ocean liner that unfortunately crashed and sunk in
 
 ## Column Breakdown:
 
-<img src="/images/titanic_tabulation/titanic_columns.png" alt="A sample of a few items from the titanic dataset">
+<img src="/blog/images/titanic_tabulation/titanic_columns.png" alt="A sample of a few items from the titanic dataset">
 
 <br>
 
@@ -28,7 +28,7 @@ Before analyzing the data, It is important to understand the raw data and what i
 
 ## Question 1: What are the average age groups of the passengers?
 
-<img src="/images/titanic_tabulation/q1.png" alt="Graph for question 1">
+<img src="/blog/images/titanic_tabulation/q1.png" alt="Graph for question 1">
 
 <br>
 
@@ -38,7 +38,7 @@ To begin, I wanted a general idea of how old the passengers of the Titanic were.
 
 ## Question 2: How many passengers rode in each class?
 
-<img src="/images/titanic_tabulation/q2.png" alt="Graph for question 2">
+<img src="/blog/images/titanic_tabulation/q2.png" alt="Graph for question 2">
 
 <br>
 
@@ -48,7 +48,7 @@ Next, I wanted to see the amount of passengers who rode in each class. My idea o
 
 ## Question 3: How many passengers rode with family?
 
-<img src="/images/titanic_tabulation/q3.png" alt="Graph for question 3">
+<img src="/blog/images/titanic_tabulation/q3.png" alt="Graph for question 3">
 
 <br>
 
@@ -58,7 +58,7 @@ The "SipSp" and "Parch" columns piqued my interest, as the idea of recording the
 
 ## Question 4: Which port of embarkment had the highest survival rate?
 
- <img src="/images/titanic_tabulation/q4.png" alt="Graph for question 4">
+ <img src="/blog/images/titanic_tabulation/q4.png" alt="Graph for question 4">
 
  <br>
 
@@ -68,7 +68,7 @@ The "SipSp" and "Parch" columns piqued my interest, as the idea of recording the
 
 ## Question 5: What was the most common passenger class of male passengers without a recorded age?
 
-<img src="/images/titanic_tabulation/q5.png" alt="Graph for question 5">
+<img src="/blog/images/titanic_tabulation/q5.png" alt="Graph for question 5">
 
 <br>
 

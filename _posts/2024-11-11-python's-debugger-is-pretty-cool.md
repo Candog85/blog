@@ -4,7 +4,7 @@ When troubleshooting your Python code, It can be quite tedious to understand exa
 
 <br>
 
-<img src="/images/python_debugger/debugger.png" alt="Python’s Debugging mode in action">
+<img src="/blog/images/python_debugger/debugger.png" alt="Python’s Debugging mode in action">
 
 <br>
 
@@ -206,7 +206,7 @@ while True:
 
 <br>
 
-<img src="/images/python_debugger/debugger_buttons.png" alt="The many functions of debugging mode">
+<img src="/blog/images/python_debugger/debugger_buttons.png" alt="The many functions of debugging mode">
 
 <br>
 
