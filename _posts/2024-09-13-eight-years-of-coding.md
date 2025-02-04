@@ -4,7 +4,7 @@ As a developer who is now certified in HTML and CSS, it’s strange to look back
 
 <br>
 
-<img src="/blog/images/scratch.png">
+<img src="/images/eight_years_of_coding/scratch.png">
 
 <br>
 
@@ -16,7 +16,7 @@ After that we moved on to some "coding games". They were basically just scratch 
 
 <br>
 
-<img src="/blog/images/lightbot.png">
+<img src="/images/eight_years_of_coding/lightbot.png">
 
 <br>
 
@@ -26,7 +26,7 @@ Not having to physically commute to school gave me a lot more free time. Mostly 
 
 <br>
 
-<img src="/blog/images/codecademy.png">
+<img src="/images/eight_years_of_coding/codecademy.png">
 
 <br>
 
@@ -40,7 +40,7 @@ Once again, as High-school approached, I had lost interest in coding as a hobby 
 
 <br>
 
-<img src="/blog/images/psuedocode.png">
+<img src="/images/eight_years_of_coding/psuedocode.png">
 
 <br>
 
@@ -50,7 +50,7 @@ It was also my introduction to Python, which quickly became my favorite language
 
 <br>
 
-<img src="/blog/images/python.png">
+<img src="/images/eight_years_of_coding/python.png">
 
 <br>
 
@@ -60,7 +60,7 @@ Since Junior year, I've been learning Full-Stack Development from Mr. Forlenza t
 
 <br>
 
-<img src="/blog/images/website.png">
+<img src="/images/eight_years_of_coding/website.png">
 
 <br>
 
